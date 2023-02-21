@@ -1,0 +1,96 @@
+Test Case 1
+Loaded page
+
+Pre-requirement
+url
+
+Steps
+Enter the url from pre-requirement
+
+Expected result
+The page is loaded
+
+--------------------------------------------------
+Test Case 2
+Displayed items on page
+
+Pre-requirements
+The page is loaded
+Expected fields are displayed
+
+Steps
+Check if right items are displayed as the expected ones
+
+Expected result
+The right items are dispayed on the page.
+
+-----------------------------------------
+Test case 3
+Login to the web site
+
+Pre-requirements
+The page is loaded and fields are displayed
+Valid username
+Valid password
+
+Steps
+1. Enter the valid username.
+2. Enter the valid password.
+3. Click on Login button.
+
+Expected result
+The user is successfully logged in.
+
+-----------------------------------------
+
+Test Case 4
+Add the items to the basket
+
+Pre-requirements
+The user is successfully logged in.
+The list of products is dispayed.
+
+Steps
+1. Click add to cart button on the Backpack product.
+2. Click add to cart button on the Bikelight product.
+3. Click add to cart button on the Thsirt product.
+
+Expected result
+
+Three items are added to the basket.
+
+-------------------------------------------
+
+Test Case 5
+Removing the items from the basket
+
+Pre-requirements
+The items are added to the basket.
+The basket page is loaded.
+The list of added items is diplayed in the basket.
+
+Steps
+1. Click on the remove button on the Backpack product.
+2. Click on the remove button on the Bikelight product.
+3. Click on the remove button on the Tshirt.
+
+Expected Result
+
+The basket is empty.
+
+------------------------------------------
+Test case 6
+Return back to the shopping page
+
+Pre-requirement
+The basket is empty
+
+Steps
+Click on the drop down menu.
+When the drop down menu appears, click on the "all items".
+
+Expected result
+The shopping page is dispayed with all the products. 
+
+
+
